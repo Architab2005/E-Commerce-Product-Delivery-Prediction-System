@@ -64,6 +64,9 @@ streamlit run streamlit_app.py
 🚚 Mode Distribution| ✅ Mode Analysis | Confidence Scores
 ```
 
+## 📄 License
+This project is licensed under the MIT License.
+
 ***
 
 **Made by Archita B** 
