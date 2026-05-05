@@ -43,6 +43,7 @@ streamlit run streamlit_app.py
 ├── streamlit_app.py     # Main dashboard
 ├── train_model.py       # Model training
 ├── requirements.txt     # Dependencies
+├── LICENSE
 ├── data/               
 ├── model.pkl 
 ├── columns.pkl
