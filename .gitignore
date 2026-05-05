@@ -116,7 +116,6 @@ venv.bak/
 .streamlit/
 
 # Project specific files (DO NOT COMMIT THESE)
-data/E_Commerce.csv
 model.pkl
 columns.pkl
 *.pkl
