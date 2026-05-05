@@ -126,6 +126,9 @@ data/*.pkl
 *.csv.bak
 *.pkl.bak
 
+# Allow ONLY this dataset
+!data/E_Commerce.csv
+
 # Images and plots (regenerate with train_model.py)
 *.png
 *.pdf
